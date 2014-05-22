@@ -1,0 +1,9 @@
+c:\users\kosh\documents\visual studio 2010\Projects\control\control\bin\Debug\control.exe
+c:\users\kosh\documents\visual studio 2010\Projects\control\control\bin\Debug\control.pdb
+c:\users\kosh\documents\visual studio 2010\Projects\control\control\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kosh\documents\visual studio 2010\Projects\control\control\obj\x86\Debug\control.Form1.resources
+c:\users\kosh\documents\visual studio 2010\Projects\control\control\obj\x86\Debug\control.Properties.Resources.resources
+c:\users\kosh\documents\visual studio 2010\Projects\control\control\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kosh\documents\visual studio 2010\Projects\control\control\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kosh\documents\visual studio 2010\Projects\control\control\obj\x86\Debug\control.exe
+c:\users\kosh\documents\visual studio 2010\Projects\control\control\obj\x86\Debug\control.pdb
